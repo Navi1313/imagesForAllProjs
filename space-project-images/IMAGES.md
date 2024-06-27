@@ -20,4 +20,5 @@ image file ....
 
 ![inbox_3791628_fe9436bf4e2d23b5b18fb3db1f1fcbcb_HRDiagram](https://github.com/Navi1313/SpaceProject/assets/121182901/6b78e1b5-86b7-4437-910a-6decf830bf74)
 
+<img width="948" alt="Screenshot 2024-06-27 at 9 24 49 AM" src="https://github.com/Navi1313/imagesForAllProjs/assets/121182901/98347a3d-0d24-4445-a4b5-dcf0635a6e86">
 
